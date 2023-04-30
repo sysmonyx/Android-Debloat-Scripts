@@ -14,6 +14,7 @@
 #   Description:    This script Uninstalls specified pre-loaded apps from Samsung One-UI using ADB.
 #                   WARNING: THIS SCRIPT IS CURRENTLY WORK IN PROGRESS & DEFINITELY NOT TESTED.
 #
+#   Last Updated:   30.04.2023
 ################################################################################################################################
 # List ADB Devices.
 .\adb devices
